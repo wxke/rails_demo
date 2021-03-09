@@ -253,8 +253,8 @@ DEPENDENCIES
   bootsnap (>= 1.4.4)
   byebug
   capistrano (~> 3.16)
-  capistrano-rails
-  capistrano3-puma
+  capistrano-rails (~> 1.6.1)
+  capistrano3-puma (~> 5.0.4)
   capybara (>= 3.26)
   jbuilder (~> 2.7)
   listen (~> 3.3)
